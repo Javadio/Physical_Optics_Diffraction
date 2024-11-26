@@ -13,3 +13,10 @@ PO is a method of calculating scattered fields from the known incident field at 
 
 # Results
 --------------------------------------------------------------------------------
+In the below [figure](https://github.com/Javadio/Physical_Optics_Diffraction/blob/main/fig2.jpg), you can see the generated MS diffraction pattern periods equal to $D=3.9\lambda$ (the first case) and $1.3\lambda$ (the second case). The electromagnetic size of the MS is the same in both cases  $L\times L=11.7\lambda  \times 11.7\lambda$. The incident angle was set to ${\theta _i} = {15^{\circ}}$ for both TM- and TE-polarizations. 
+
+<p align="center">
+  <img src="https://github.com/Javadio/Physical_Optics_Diffraction/blob/main/fig2.jpg" alt="PO diffraction pattern">
+</p>
+
+<p align="center"><b>Figure 2:</b> PO formula for Binary MS.</p>
